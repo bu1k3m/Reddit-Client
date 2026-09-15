@@ -12,8 +12,8 @@
   --danger: #ff7167;
   --warm: #f4c99a;
 
-  --font-sans: "Space Grotesk", "Segoe UI", system-ui, sans-serif;
-  --font-mono: "DM Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+  --font-sans: "Inter", "Segoe UI", system-ui, sans-serif;
+  --font-mono: "DM Sans", ui-monospace, SFMono-Regular, Menlo, monospace;
 }
 
 * {
